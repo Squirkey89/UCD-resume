@@ -30,8 +30,16 @@
 .ui-menu-color-contact {
     background-color: #3498db;
 }
+.ui-menu-color-interests {
+    background-color: #e84610;
+}
+.ui-menu-color-github {
+    background-color: #1a1690;
+}
+
+
 .ui-menu-color-download {
-    background-color: #525252;
+    background-color: rgb(192, 192, 4);
 }
 /*---------------------------------Special paddings/margins/text */
 
